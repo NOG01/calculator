@@ -1,35 +1,35 @@
-# Calculadora Simples
+# Simple Calculator
 
-Este é um projeto de uma calculadora simples desenvolvida com HTML, CSS e JavaScript.
+This is a simple calculator project developed with HTML, CSS and JavaScript.
 
-## Visão Geral
+## Overview
 
-Esta calculadora permite realizar operações aritméticas básicas como adição, subtração, multiplicação e divisão. A interface é simples e amigável, ideal para estudos e demonstrações de como criar uma calculadora funcional usando tecnologias web básicas.
+This calculator allows you to perform basic arithmetic operations such as addition, subtraction, multiplication and division. The interface is simple and friendly, ideal for studies and demonstrations of how to create a functional calculator using basic web technologies.
 
-## Funcionalidades
+## Functionalities
 
-- **Adição:** Permite somar dois números.
-- **Subtração:** Permite subtrair um número de outro.
-- **Multiplicação:** Permite multiplicar dois números.
-- **Divisão:** Permite dividir um número pelo outro.
-- **Limpar:** Botão para limpar a entrada e o resultado.
+- **Addition:** Allows you to add two numbers.
+- **Subtraction:** Allows you to subtract one number from another.
+- **Multiplication:** Allows you to multiply two numbers.
+- **Division:** Allows you to divide one number by another.
+- **Clean:** Button to clear input and result.
 
-## Tecnologias Utilizadas
+## Technologies Used
 
-- **HTML:** Estrutura da calculadora.
-- **CSS:** Estilos para a interface da calculadora.
-- **JavaScript:** Lógica para as operações aritméticas e interação com o usuário.
+- **HTML:** Calculator structure.
+- **CSS:** Styles for the calculator interface.
+- **JavaScript:** Logic for arithmetic operations and user interaction.
 
-## Como Usar
+## How to use
 
-1. Clone este repositório:
+1. Clone this repository:
    ```sh
    git clone https://github.com/NOG01/calculator.git
 
-2. Navegue até o diretório do projeto:
+2. Navigate to the project directory:
    ```sh
-   cd nome-do-repositorio
+   cd calculator
 
-3. Abra o arquivo "index.html" no seu navegador preferido.
+3. Open the "index.html" file in your preferred browser.
 
 - ![Screenshot 2024-05-27 15 12 42](https://github.com/NOG01/calculator/assets/86392886/ca86e1d7-c7dd-4754-b740-d0c9137e4053)
