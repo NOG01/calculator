@@ -26,4 +26,10 @@ Esta calculadora permite realizar operações aritméticas básicas como adiçã
    ```sh
    git clone https://github.com/NOG01/calculator.git
 
+2. Navegue até o diretório do projeto:
+   ```sh
+   cd nome-do-repositorio
+
+3. Abra o arquivo "index.html" no seu navegador preferido.
+
 - ![Screenshot 2024-05-27 15 12 42](https://github.com/NOG01/calculator/assets/86392886/ca86e1d7-c7dd-4754-b740-d0c9137e4053)
