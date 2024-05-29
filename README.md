@@ -1,6 +1,6 @@
-# Simple Calculator
+# Calculator
 
-This is a simple calculator project developed with HTML, CSS and JavaScript.
+This is a calculator project developed with HTML, CSS and JavaScript.
 
 ## Overview
 
